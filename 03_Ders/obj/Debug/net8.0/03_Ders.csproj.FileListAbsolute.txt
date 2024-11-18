@@ -1,0 +1,14 @@
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\03_Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\03_Ders.AssemblyInfoInputs.cache
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\03_Ders.AssemblyInfo.cs
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\03_Ders.csproj.CoreCompileInputs.cache
+C:\Users\W11\source\repos\03_Ders\bin\Debug\net8.0\03_Ders.exe
+C:\Users\W11\source\repos\03_Ders\bin\Debug\net8.0\03_Ders.deps.json
+C:\Users\W11\source\repos\03_Ders\bin\Debug\net8.0\03_Ders.runtimeconfig.json
+C:\Users\W11\source\repos\03_Ders\bin\Debug\net8.0\03_Ders.dll
+C:\Users\W11\source\repos\03_Ders\bin\Debug\net8.0\03_Ders.pdb
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\03_Ders.dll
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\refint\03_Ders.dll
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\03_Ders.pdb
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\03_Ders.genruntimeconfig.cache
+C:\Users\W11\source\repos\03_Ders\obj\Debug\net8.0\ref\03_Ders.dll
